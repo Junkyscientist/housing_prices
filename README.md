@@ -15,4 +15,4 @@ HTML/CSS/Javascript for UI
 
 ## Code and Resources Used
 
-
+Thanks to https://github.com/codebasics
